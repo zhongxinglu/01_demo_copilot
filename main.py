@@ -15,6 +15,7 @@ if __name__ == '__main__':
 
     # add a first change, for 1st time push
     # add one more change, 2nd time push
+    # check connection to git hub
 
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
 
